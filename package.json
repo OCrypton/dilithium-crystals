@@ -1,0 +1,12 @@
+{
+	"name": "dilithium-crystals",
+	"version": "2.0.0",
+	"description": "Dilithium5 post-quantum signatures — fork with deterministic keyPairFromSeed",
+	"main": "dist/index.js",
+	"types": "index.d.ts",
+	"scripts": {
+		"build": "make",
+		"test": "node test.js"
+	},
+	"license": "MIT"
+}
